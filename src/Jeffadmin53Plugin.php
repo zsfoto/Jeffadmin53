@@ -27,7 +27,7 @@ class Jeffadmin53Plugin extends BasePlugin
     public function bootstrap(PluginApplicationInterface $app): void
     {
         // remove this method hook if you don't need it
-		dd($app);
+		//dd($app);
     }
 
     /**
